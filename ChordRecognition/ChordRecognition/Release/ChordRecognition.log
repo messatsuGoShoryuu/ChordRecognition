@@ -1,0 +1,9 @@
+﻿  DFT.cpp
+g:\programming\chordrecognition\chordrecognition\chordrecognition\Filter.h(57): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+DFT.cpp(51): warning C4244: 'initializing' : conversion from 'f64' to 'ui32', possible loss of data
+DFT.cpp(52): warning C4244: 'initializing' : conversion from 'f64' to 'ui32', possible loss of data
+DFT.cpp(79): warning C4244: 'argument' : conversion from 'f64' to 'float', possible loss of data
+DFT.cpp(85): warning C4244: 'argument' : conversion from 'f64' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  ChordRecognition.vcxproj -> G:\Programming\ChordRecognition\ChordRecognition\Release\ChordRecognition.exe
